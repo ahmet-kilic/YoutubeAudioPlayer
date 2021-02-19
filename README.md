@@ -20,5 +20,6 @@ stop
 volume (value) : Sets the volume to given value, value should be between 0-100
 
 quit : Quits the script
+
 ----
 ffmpeg executable files courtesy of: https://ffmpeg.org/
